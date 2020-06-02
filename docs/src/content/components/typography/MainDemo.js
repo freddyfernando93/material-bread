@@ -27,7 +27,7 @@ export const code = `class Demo extends React.Component {
         <Heading type={6} text="h6" />
         <Subtitle type={1} text="Subtitle 1" />
         <Subtitle type={2} text="Subtitle 2" />
-        <BodyText type={1} text="Body 2" />
+        <BodyText type={1} text="Body 1" />
         <BodyText type={2} text="Body 2" />
         <Caption text="Caption" />
         <Overline text="Overline" />
